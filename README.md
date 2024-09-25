@@ -40,7 +40,7 @@ These instructions will help you set up and run the project on your local machin
    ```bash
    git clone https://github.com/jdok8/python-sales-analysis.git
    ```
-2. Install the necessary dependencies:
+2. Install the necessary dependencies
 
 
 ## Project Structure
@@ -60,7 +60,7 @@ python-sales-analysis/
 
 1. Open the Jupyter Notebook and run the analysis:
    ```bash
-   jupyter notebook notebooks/analysis.ipynb
+   jupyter notebook notebooks/product_sales_analysis.ipynb
    ```
 
 2. View key visualizations such as sales method distribution, revenue trends, and customer analysis.
