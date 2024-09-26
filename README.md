@@ -1,5 +1,5 @@
 
-# Sales Data Analysis Project
+# Sales Analysis: Evaluating Sales Strategies for Optimal Revenue
 
 ## Table of Contents
 
